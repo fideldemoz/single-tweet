@@ -46,3 +46,9 @@ span{
 position: absolute;
 bottom: 10px;
 }
+
+@media scree and (max-screen:1028){
+	.tweet{
+		margin: 10%;
+	}
+}
