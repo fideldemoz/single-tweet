@@ -6,4 +6,4 @@ It is a single page which resembles a tweet, but it is not and it is far away fr
 I was watching a 1 hour long video on Youtube titled "Html/css beginner tutorial" from Programming with Mosh, and he said that we were going to build a project at the end, just to find out that that was a promo video.
 So I decided to complete a single page tweet, that is part of exercise on the video. and I did it my way.
 # How can I see it?
-Just go to single-tweet(https://fideldemoz.github.com/single-tweet/) and see.
+Just go to [single-tweet](https://fideldemoz.github.io/single-tweet/) and see.
